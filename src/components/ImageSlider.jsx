@@ -5,7 +5,7 @@ import { RxDotFilled } from 'react-icons/rx';
 const ImageSlider = () => {
   const slides = [
     {
-      url: 'https://images.unsplash.com/photo-1464093515883-ec948246accb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2659&q=80',
+      url: 'https://images.pexels.com/photos/3475617/pexels-photo-3475617.jpeg',
       title: 'Lobster',
     },
     {

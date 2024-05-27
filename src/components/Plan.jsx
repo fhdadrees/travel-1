@@ -7,7 +7,7 @@ const Plan = () => {
       <div className='grid grid-cols-2 gap-1 grid-rows-6 h-[80vh]'>
         <img
           className='row-span-3 object-cover w-full h-full'
-          src='https://images.unsplash.com/photo-1506929562872-bb421503ef21?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1368&q=80'
+          src='https://images.pexels.com/photos/1078983/pexels-photo-1078983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
           alt='/'
         />
         <img
@@ -17,7 +17,7 @@ const Plan = () => {
         />
         <img
           className='row-span-2 object-cover w-full h-full'
-          src='https://images.unsplash.com/photo-1515238152791-8216bfdf89a7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1772&q=80'
+          src='https://images.pexels.com/photos/1179156/pexels-photo-1179156.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
           alt='/'
         />
         <img
